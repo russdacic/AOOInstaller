@@ -12,9 +12,6 @@ This is an Apache OpenOffice Installer Script for use on Debian systems. **NOTE:
 
 ## Instructions for Debian 
 
-
-**then**
-
   sh installdeb.sh
 
 

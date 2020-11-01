@@ -12,15 +12,10 @@ This is an Apache OpenOffice Installer Script for use on Debian systems. **NOTE:
 
 ## Instructions for Debian 
 
-  sh preparedeb.sh
 
 **then**
 
   sh installdeb.sh
-
-## To remove on Debian 
-
-  sh removedeb.sh
 
 
 

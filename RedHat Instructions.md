@@ -10,17 +10,9 @@ This is an Apache OpenOffice Installer Script for use on Red Hat Linux systems. 
 
  *And Thats All!*
 
-## Instructions for Redhat
+## Installation Instructions
 
-  sh preparerpm.sh
-
-**then**
-
-  sh installrpm.sh
-
-## To remove on Debian 
-
-  sh removerpm.sh
+sh installrpm.sh
 
 
 
